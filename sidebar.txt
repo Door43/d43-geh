@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[geh:home|Door43 (geh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-geh|d43-geh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-geh/archive/master.zip|d43-geh.zip]]
+
+**Recent Changes**
+{{changes>ns = geh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/geh|Ethnologue data]]
+
